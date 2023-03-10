@@ -3,7 +3,6 @@ title: The Interstellar Eatery
 subtitle: The Casino Restaurant
 layout: default
 modal-id: 4
-date: now
 img: casinorestaurant.png
 thumbnail: casinorestaurant.png
 alt: image-alt
